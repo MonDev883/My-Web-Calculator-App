@@ -1,5 +1,14 @@
-const display = document.getElementById("diaplay");
+const display = document.getElementById("display");
 
-function appendToDisplay(){
-	
+function appendToDisplay(input){
+     display.value += input;
+
+}
+
+function clearDisplay(){
+
+}
+
+function calculate(){
+
 }
