@@ -43,3 +43,9 @@ button:hover{
 button:active{
 	background-color: #DC143C;
 }
+.operator-btn{
+background-color: #1E90FF;
+}
+.operator-btn:hover{
+background-color: #1E90FF;
+}
