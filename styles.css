@@ -19,6 +19,7 @@ body{
 	font-size: 5rem;
 	text-align: left;
 	background-color: #87CEFA;
+	color: blue;
 }
 #keys{
 	display: grid;
