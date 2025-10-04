@@ -9,5 +9,5 @@ function clearDisplay(){
 }
 
 function calculate(){
-    display.value ="display.value";
+    display.value = eval(display.value);
 }
